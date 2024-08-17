@@ -54,3 +54,6 @@ function scrool(){
     const targetSec = document.getElementById("targetedSection");
     targetSec.scrollIntoView({ behavior: "smooth" });
 }
+
+
+// project completed 
