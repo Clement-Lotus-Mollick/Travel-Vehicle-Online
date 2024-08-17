@@ -6,3 +6,10 @@
     margin: 0px;
     padding: 0px;
 }
+
+.nwDiv{
+    display: flex;
+    align-items: center;
+    justify-content: center;
+    gap: 44px;
+}
